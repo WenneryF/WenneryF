@@ -6,8 +6,8 @@
 ---
 
 ## 👩‍💻 Sobre mim
-- 📍 Natural da **Paraíba**, mas moro no **Rio Grande do Sul** há 14 anos  
-- 🎓 Concluí o Ensino Médio no **IFRS**, com **curso técnico em Informática**  
+- 📍 Natural da **Paraíba**, mas moro no **Rio Grande do Sul** há 12 anos  
+- 🎓 Concluí o Ensino Médio no **IFPB**, com **curso técnico em Informática**  
 - 🌱 Atualmente estudando diferentes **linguagens de programação**  
 - 🎨 Também realizo trabalhos de **Web Design**, unindo **criatividade** e **técnica**  
 
