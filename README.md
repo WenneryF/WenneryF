@@ -1,5 +1,5 @@
 ## WenneryF
-👋 Olá, eu sou a Wennery Farias Figueiredo  
+👋 Olá, eu sou a Wennery  Figueiredo  
 
 💻 Apaixonada por **tecnologia** e sempre em busca de novos aprendizados na área de **desenvolvimento de software**.  
 
